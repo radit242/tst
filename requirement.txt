@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+yfinance
+prophet
+plotly
+keras
+tensorflow
+pickleshare
+datetime
+scikit-learn
+pickle
